@@ -1,0 +1,25 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+li{
+    list-style: none;
+
+}
+.media{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+}
+.media img{
+    margin-right: 20px;
+}
+.author{
+    display: flex;
+    padding-left: 40%;
+}
+.author-name{
+    margin-right: 10px;
+}
